@@ -1,0 +1,7 @@
+torch
+numpy
+gymnasium
+gymnasium[other]
+tqdm
+ale_py
+matplotlib
